@@ -3,11 +3,9 @@ Lista de compras
 Cerveja
 Carne
 Carvão
-<<<<<<< HEAD
-Coração de galinha
-=======
 Coração de galinha
 Shampoo
 Condicionador 
 Creme dental
->>>>>>> banheiro
+Macarrão
+Sabonete
